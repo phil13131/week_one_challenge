@@ -9,6 +9,6 @@ HTML Changes: Title changed to Horiseon Header element fixed Footer element fixe
 
 CSS Changes: Consolidated benefit, benefit H3s, and benefit img consolidated search engine social, imgs, and H2s
 
-Deployment: Link to finished site: https://phil13131.github.io/Challenge1/
+Deployment: Link to finished site: https://phil13131.github.io/week_one_challenge/
 
 Credits: This is a code refactor based on Challenge 1 for EDX Coding Bootcamp.
